@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://mintlab-edthomas.vercel.app/sitemap.xml
+Disallow: /
